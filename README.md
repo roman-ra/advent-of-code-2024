@@ -4,4 +4,4 @@ My solutions for Advent of Code 2024
 ## Progress
 | **Problem** | **Part 1** | **Part 2** |
 |:-----------:|:----------:|:----------:|
-|      1      |    ⭐    |            |
+|      1      |    ⭐    |    ⭐    |

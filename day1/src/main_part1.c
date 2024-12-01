@@ -47,5 +47,8 @@ int main(int argc, char* argv[])
 
     printf("Total diff = %llu", total_diff);
 
+    free(location_ids_left);
+    free(location_ids_right);
+
     return 0;
 }

@@ -36,5 +36,8 @@ int main(int argc, char* argv[])
 
     printf("Similarity score = %llu", similarity_score);
 
+    free(location_ids_left);
+    free(frequencies_right);
+
     return 0;
 }

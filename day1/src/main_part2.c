@@ -38,6 +38,7 @@ int main(int argc, char* argv[])
 
     free(location_ids_left);
     free(frequencies_right);
+    fclose(in);
 
     return 0;
 }

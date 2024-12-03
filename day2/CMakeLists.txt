@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(AdventOfCode2024_Day1 C)
+project(AdventOfCode2024_Day2 C)
 
 set(CMAKE_C_STANDARD 99)
 

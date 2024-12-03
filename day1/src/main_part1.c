@@ -49,6 +49,7 @@ int main(int argc, char* argv[])
 
     free(location_ids_left);
     free(location_ids_right);
+    fclose(in);
 
     return 0;
 }

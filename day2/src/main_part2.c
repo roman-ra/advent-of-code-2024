@@ -114,5 +114,7 @@ int main(int argc, char* argv[])
 
     printf("Number of safe reports = %u", num_safe_reports);
 
+    fclose(in);
+
     return 0;
 }

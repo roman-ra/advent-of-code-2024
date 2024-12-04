@@ -22,7 +22,6 @@ uint32_t check_at(const char *chars, uint32_t row, uint32_t column, uint32_t row
         int32_t dir_y = dirs_y[dir_id];
 
         uint32_t normal_matches = 0u;
-        uint32_t reversed_matches = 0u;
         for (uint32_t i = 0u; i < TARGET_LEN; i++) {
             int32_t column_with_offset = column + i * dir_x;
             int32_t row_with_offset    = row    + i * dir_y;
@@ -38,7 +37,7 @@ uint32_t check_at(const char *chars, uint32_t row, uint32_t column, uint32_t row
                 break;
             }
         }
-        if (normal_matches == TARGET_LEN || reversed_matches == TARGET_LEN) {
+        if (normal_matches == TARGET_LEN) {
             total_matches++;
         }
     }

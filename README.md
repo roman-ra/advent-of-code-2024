@@ -10,4 +10,4 @@ My solutions for Advent of Code 2024
 |      4      |    ⭐    |    ⭐    |
 |      5      |    ⭐    |    ⭐    |
 |      6      |    ⭐    |    ⭐    |
-|      7      |    ⭐    |          |
+|      7      |    ⭐    |    ⭐    |

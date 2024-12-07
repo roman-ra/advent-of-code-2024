@@ -8,5 +8,5 @@ My solutions for Advent of Code 2024
 |      2      |    ⭐    |    ⭐    |
 |      3      |    ⭐    |    ⭐    |
 |      4      |    ⭐    |    ⭐    |
-|      5      |    ⭐    |           |
+|      5      |    ⭐    |    ⭐    |
 |      6      |    ⭐    |    ⭐    |
